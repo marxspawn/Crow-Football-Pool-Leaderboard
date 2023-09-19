@@ -1,6 +1,9 @@
 .highLight{
  background:yellow;
 }
+.lowLight{
+ background:#E3E0E0;
+}
 .info {
 	color:white;
 	font-size: 22px;
