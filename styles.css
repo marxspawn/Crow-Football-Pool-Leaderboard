@@ -2,7 +2,7 @@
  background:yellow;
 }
 .info {
-	color:red;
+	color:white;
 	font-size: 22px;
 }
 .format {
@@ -25,4 +25,8 @@ body {
 }
 h1 {
   color:red;
+}
+
+html {
+	background-color: black;
 }
