@@ -6,24 +6,24 @@
 	font-size: 22px;
 }
 .format {
-  margin-left: auto;
-  margin-right: auto;
+  	margin-left: auto;
+  	margin-right: auto;
 }
 table {
 	width: 100%;
-  border:1px solid black;
-  background-color: white;
+  	border:1px solid black;
+  	background-color: white;
 }
 th, td {
-  border:1px solid black;
-  background-color: inherit;
+  	border:1px solid black;
+  	background-color: inherit;
 }
 body {
-  background-image: src="./images/peakpx.jpg"
-  background-color: orange;
-  text-align: center;
+  	background-image: src="./images/peakpx.jpg"
+  	background-color: orange;
+  	text-align: center;
 }
 h1 {
-  color:red;
+  	color:red;
 }
 
