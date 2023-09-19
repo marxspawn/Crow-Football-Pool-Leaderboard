@@ -6,12 +6,11 @@
 	font-size: 22px;
 }
 .format {
-	height: auto;
   margin-left: auto;
   margin-right: auto;
 }
 table {
-	width: 65%;
+	width: 100%;
   border:1px solid black;
   background-color: white;
 }
