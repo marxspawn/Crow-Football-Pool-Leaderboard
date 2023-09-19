@@ -2,7 +2,7 @@
  background:yellow;
 }
 .lowLight{
- background:#E3E0E0;
+ background:#FFAD71;
 }
 .info {
 	color:white;
@@ -15,8 +15,8 @@
 }
 table {
 	width: 90%;
-  border:1px solid black;
-  background-color: white;
+  border:5px solid #0021A5;
+  background-color: #C8D4F6;
 }
 th, td {
   border:1px solid black;
@@ -27,7 +27,7 @@ body {
   text-align: center;
 }
 h1 {
-  color:red;
+  color: #FA4616;
 }
 
 html {
