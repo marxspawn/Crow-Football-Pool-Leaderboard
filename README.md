@@ -1,6 +1,6 @@
 # Crow-Football-Pool-Leaderboard
 
-[C.R.O.W.](https://marxspawn.github.io/Crow-Football-Pool-Leaderboard/)
+[Visit Page](https://marxspawn.github.io/Crow-Football-Pool-Leaderboard/)
 
 HTML page to display football pool leaderboard and weekly winner from our family football pool being played at RunYourPool.com
 
