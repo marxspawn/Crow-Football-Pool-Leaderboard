@@ -46,3 +46,8 @@ img {
   	width: 100%;
   	margin-top: 70px;
 }
+footer {
+  	color: white;
+  	font-size: 10px;
+  	font-weight: bolder;
+}
