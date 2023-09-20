@@ -3,6 +3,10 @@
 	margin-left: auto;
 	margin-right: auto;
 }
+#info {
+	color: white;
+	font-size: 8pt;
+}
 .highLight{
 	background:yellow;
 }
