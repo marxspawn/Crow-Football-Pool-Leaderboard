@@ -1,8 +1,13 @@
+#format {
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+}
 .highLight{
-	background:yellow;
+ background:yellow;
 }
 .lowLight{
-	background:#FFC5AD;
+ background:#FFC5AD;
 }
 .info {
 	color:white;
@@ -10,29 +15,30 @@
 }
 .format {
 	height: auto;
-	margin-left: auto;
-	margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 table {
 	width: 90%;
-	border:5px solid #D5D5D5;
-	background-color: #C8D4F6;
+  border:5px solid #D5D5D5;
+  background-color: #C8D4F6;
 }
 th, td {
-	border:1px solid black;
-	background-color: inherit;
-	font-weight: bold;
+  border:1px solid black;
+  background-color: inherit;
+  font-weight: bold;
 }
 body {
-	background-color: black;
-	text-align: center;
+  background-color: black;
+  text-align: center;
 }
 h1 {
-	color: #FA4616;
+  color: #FA4616;
 }
 hr {
-	width: 60%;
+  width: 60%;
 }
 img {
-	margin-top: 70px;
+  width: 100%;
+  margin-top: 70px;
 }
