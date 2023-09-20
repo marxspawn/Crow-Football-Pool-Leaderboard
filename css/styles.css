@@ -15,7 +15,7 @@
 }
 table {
 	width: 90%;
-  border:5px solid #0021A5;
+  border:5px solid #D5D5D5;
   background-color: #C8D4F6;
 }
 th, td {
@@ -29,7 +29,9 @@ body {
 h1 {
   color: #FA4616;
 }
-
+hr {
+  width: 30%;
+}
 html {
 	background-color: black;
 }
