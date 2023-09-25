@@ -12,12 +12,21 @@ Date Started:   Monday Sep. 18th 2023
 		<link rel="stylesheet" href="styles.css" type="text/css" />
 	</head>
 	<body>
+		<script>
+		function myFunction() {
+			var x = document.getElementById("snackbar");
+			x.className = "show";
+			setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+		}
+		</script>
 		<div>
 			<h1 class="glow" style="font-size:37pt">C. R. O. W.</h1>
 			<hr>
 			<h1>Football Pool Leaderboard</h1>
 			<hr>
 			<p class="info">Official Leaderboard with Bonus Points</p>
+			<button onclick="myFunction()">Last Weeks Winner</button>
+			<div id="snackbar">Team Inch High: (14-2) 68 Points</div>
 			<table class="format">
 				<tr class="highLight">
 					<td width="20px">Rank</td>
