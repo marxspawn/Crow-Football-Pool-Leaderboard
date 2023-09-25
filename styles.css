@@ -43,8 +43,8 @@
   visibility: hidden;
   min-width: 250px;
   margin-left: -125px;
-  background-color: #E1E1E1;
-  color: #000000;
+  background-color: #464646;
+  color: #FFFFFF;
   text-align: center;
   border-radius: 15px;
   padding: 16px;
@@ -82,6 +82,8 @@
 button {
   margin-bottom: 20px;
   border-radius: 10px;
+  background-color: white;
+  color: black;
   box-shadow: .7px .9px white;
 }
 table {
@@ -97,10 +99,10 @@ th, td {
   box-shadow: 1px 1px #000000;
 }
 body {
-  background-color: black;
+  background-color: #000000;
   text-align: center;
   font-family: "Papyrus", "Fantasy", monospace;
-  font-weight: bold;
+  font-weight: bolder;
 }
 h1 {
   color: red;
