@@ -86,12 +86,14 @@ button {
 }
 table {
   width: 90%;
-  border:5px solid #D5D5D5;
+  border:3px solid #D5D5D5;
   background-color: #C8D4F6;
+  border-radius: 5px;
 }
 th, td {
   border:1px solid black;
   background-color: inherit;
+  border-radius: 3px;
 }
 body {
   background-color: black;
