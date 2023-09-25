@@ -54,7 +54,7 @@
   z-index: 1;
   left: 50%;
   bottom: 30px;
-  font-size: 17px;
+  font-size: 32px;
   font-family: "Lucida Console", "Courier New", monospace;
 }
 #snackbar.show {
