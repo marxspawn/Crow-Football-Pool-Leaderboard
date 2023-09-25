@@ -99,8 +99,8 @@ th, td {
 body {
   background-color: black;
   text-align: center;
-  font-family: 'Courier New', monospace;
-  font-weight: bolder;
+  font-family: "Papyrus", "Fantasy", monospace;
+  font-weight: bold;
 }
 h1 {
   color: #FA4616;
