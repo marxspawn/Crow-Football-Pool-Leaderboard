@@ -56,8 +56,8 @@
 }
 #snackbar.show {
   visibility: visible;
-  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
-  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 4.5s;
+  animation: fadein 0.5s, fadeout 0.5s 4.5s;
 }
 
 @-webkit-keyframes fadein {
@@ -86,7 +86,7 @@ button {
 }
 table {
   width: 90%;
-  border:3px solid #D5D5D5;
+  border:3px solid #FFFFFF;
   background-color: #C8D4F6;
   border-radius: 5px;
 }
@@ -103,10 +103,10 @@ body {
   font-weight: bold;
 }
 h1 {
-  color: #FA4616;
+  color: red;
 }
 hr {
-  width: 60%;
+  width: 45%;
 }
 img {
   width: 100%;
@@ -118,5 +118,5 @@ footer {
   font-weight: bolder;
 }
 a {
-  color:red;
+  color: red;
 }
