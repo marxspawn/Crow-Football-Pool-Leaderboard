@@ -14,83 +14,80 @@ Date Started:   Monday Sep. 18th 2023
 </head>
 <body>
 	<div>
+		<script>
+		function myFunction() {
+			var x = document.getElementById("snackbar");
+			x.className = "show";
+			setTimeout(function(){ x.className = x.className.replace("show", ""); }, 5000);
+		}
+		</script>
 		<h1 class="glow" style="font-size:37pt">C. R. O. W.</h1>
+		<hr style="margin-bottom:35px">
 		<h1>2021 Final Rankings</h1>
 		<table class="format">
 			<tr class="highLight">
 				<td width="20px">Rank</td>
 				<td>Name</td>
-				<td>Record</td>
 				<td>Total</td>
 			</tr>
 			<tr>
 				<td>01</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>Baconeers</td>
+				<td>775.5</td>
 			</tr>
 			<tr class="lowLight">
 				<td>02</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>Mo'Money</td>
+				<td>762.5</td>
 			</tr>
 			<tr>
 				<td>03</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>R420R</td>
+				<td>740.5</td>
 			</tr>
 			<tr class="lowLight">
 				<td>04</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>Chris J</td>
+				<td>733.5</td>
 			</tr>
 			<tr>
 				<td>05</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>Hugh Jass</td>
+				<td>733.5</td>
 			</tr>
 			<tr class="lowLight">
 				<td>06</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>Doughboysfast</td>
+				<td>717.5</td>
 			</tr>
 			<tr>
 				<td>07</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>Tjeff1965</td>
+				<td>603.5</td>
 			</tr>
 			<tr class="lowLight">
 				<td>08</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>DoctorJekkyl</td>
+				<td>554.5</td>
 			</tr>
 			<tr>
 				<td>09</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>Black Crow</td>
+				<td>457.5</td>
 			</tr>
 			<tr class="lowLight">
 				<td>10</td>
-				<td></td>
-				<td></td>
-				<td></td>
-			</tr>
-			<tr>
-				<td>11</td>
-				<td></td>
-				<td></td>
-				<td></td>
+				<td>COPS</td>
+				<td>404.5</td>
 			</tr>
 		</table>
 	</div>
+	<p id="info">* Bonus Points not Included *</p>
+	<div class="space">
+		<button onclick="myFunction()">Press for Props</button>
+		<div id="snackbar">Congratulations!<br>Baconeers!<br>2021 Pool Winner</div>
+	</div>
+	<hr style="margin-bottom:35px">
 	<a href="index.html" class="glow" style="font-size:37pt">Return</h1>
 </body>
 </html>
