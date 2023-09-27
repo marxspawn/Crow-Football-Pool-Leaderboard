@@ -8,32 +8,6 @@
   font-size: 8pt;
   font-weight: lighter;
 }
-.star {
-  position: absolute;
-  width: 0.5px;
-  height: 0.5px;
-  background-color: white;
-  animation: animStar 150s linear infinite;
-  z-index: -1;
-}
-
-.star2 {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  background-color: white;
-  animation: animStar 100s linear infinite;
-  z-index: -1;
-}
-
-.star3 {
-  position: absolute;
-  width: 1.5px;
-  height: 1.5px;
-  background-color: white;
-  animation: animStar 50s linear infinite;
-  z-index: -1;
-}
 .highLight{
   background:yellow;
 }
