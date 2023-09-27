@@ -6,7 +6,6 @@
 #info {
   color: white;
   font-size: 8pt;
-  font-weight: lighter;
 }
 .highLight{
   background:yellow;
@@ -51,7 +50,6 @@
   color: #FFFFFF;
   text-align: center;
   border-radius: 15px;
-  font-weight: lighter;
   padding: 16px;
   position: fixed;
   z-index: 1;
@@ -109,7 +107,6 @@ body {
   background-color: #000000;
   text-align: center;
   font-family: "Papyrus", "Fantasy", monospace;
-  font-weight: bolder;
 }
 h1 {
   color: red;
@@ -124,9 +121,7 @@ img {
 footer {
   color: white;
   font-size: 10px;
-  font-weight: lighter;
 }
 a {
   color: red;
-  font-weight: lighter;
 }
